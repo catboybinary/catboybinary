@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @catboyBinary
 - 👀 I’m interested in coding Spigot plugins.
 - 🌱 I’m currently learning Java and C#
-- 📫 You can find me at my Discord: b1n4ry#3310
+- 📫 You can find me at my Discord: b1n4ry#5112
